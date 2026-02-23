@@ -6,3 +6,4 @@ my_dict = {
 }
 
 print(my_dict.get("email"))
+print(my_dict["name"])
