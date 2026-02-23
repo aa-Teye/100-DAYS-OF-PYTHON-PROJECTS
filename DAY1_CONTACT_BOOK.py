@@ -4,6 +4,7 @@ my_dict = {
     "phone": "123-456-7890",
     "email": "lexis123@gmail.com",
     "house_address": "Mukose abutali street"
+    "Level of eduction": "Degree"
 }
 
 print(my_dict.get("email"))
@@ -13,3 +14,4 @@ print(my_dict.get("address"))
 print(my_dict.get("pho"))
 print(my_dict["house_address"])
 print(my_dict.get("house_address"))
+print(my_dict.get("Level of eduction")) 
