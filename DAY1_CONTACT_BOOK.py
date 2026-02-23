@@ -7,3 +7,5 @@ my_dict = {
 
 print(my_dict.get("email"))
 print(my_dict["name"])
+print(my_dict["phone"])
+print(my_dict.get("address"))
