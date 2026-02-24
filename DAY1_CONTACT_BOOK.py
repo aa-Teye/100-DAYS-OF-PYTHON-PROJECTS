@@ -26,8 +26,4 @@ Contact = {
     "location": "Accra"
 }
 #Appending a new key value pair to the dictionary 
-Contact["email"] = "kelvinlabtech@gmail.com"
-Contact["email"] = "kelvinlabtech1234@gmail.com"
-del Contact["email"]
-del Contact["email"]
-print(Contact["email"])
+Contact["em
