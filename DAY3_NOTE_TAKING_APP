@@ -42,6 +42,7 @@ def view_notes():
         print("\nNo notes found.")
   except FileNotFoundError:
     print("No notes found.")
+    print("all errors detected")
 
 # Step 5: Delete all notes
 def delete_notes():
