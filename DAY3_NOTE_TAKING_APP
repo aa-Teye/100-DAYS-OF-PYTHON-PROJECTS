@@ -38,10 +38,7 @@ def view_notes():
       if content:
         print("\n--- Your Notes ---")
         print(content)
-      else:
-        print("\nNo notes found.")
-  except FileNotFoundError:
-    print("No notes found.")
+ 
 
 # Step 5: Delete all notes
 def delete_notes():
